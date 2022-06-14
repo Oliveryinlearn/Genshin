@@ -1,0 +1,2 @@
+<!--component/Button/button.wxml-->
+<button class="{{'btn-'+size}} {{'btn-'+type}} {{long?'is-long':''}}"><slot /></button>

@@ -1,0 +1,10 @@
+<!--pages/welcome.wxml-->
+
+<!-- <block wx:for="{{users}}" wx:for-item="user">
+  <view wx:if="{{user.sex==='女'}}">{{user.name}}-{{user.age}}</view>
+</block> -->
+
+<view class="btn-group">
+  <!-- <button class="login-btn" type="primary" >登录</button> -->
+  <t-button size="small">这是一个按钮</t-button>
+</view>

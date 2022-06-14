@@ -1,5 +1,7 @@
 {
   "pages": [
+    "pages/welcome/welcome",
+    "pages/loading/loading",
     "pages/index/index",
     "pages/logs/logs"
   ],
